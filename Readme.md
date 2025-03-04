@@ -1,6 +1,4 @@
-Here's how you can convert the content you provided into a **README** format suitable for your GitHub repository:
 
-```markdown
 # Step-by-Step Guide: Setting Up DeepSeek-R1 with Ollama on Your VPS 🌐🤖
 
 ## Introduction
