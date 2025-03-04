@@ -111,14 +111,3 @@ By following this guide, you’ve set up DeepSeek-R1 with Ollama on your VPS. No
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Explanation of Structure:
-
-- **Introduction**: This section introduces DeepSeek-R1, Ollama, and the purpose of the guide.
-- **Why Choose DeepSeek-R1?**: Provides the reasons why this AI model is a good choice.
-- **What is Ollama?**: Explains what Ollama is and how it simplifies the process of running AI models locally.
-- **Step-by-Step Instructions**: These sections provide a clear sequence of steps to install, configure, and run DeepSeek-R1.
-- **Conclusion**: A brief wrap-up on what was accomplished.
-- **License**: A section for the project’s license (optional, depending on your repo setup).
-
-Feel free to adjust the URLs and command examples as necessary for your setup!
