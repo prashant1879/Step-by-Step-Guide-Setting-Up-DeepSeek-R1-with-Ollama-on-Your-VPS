@@ -110,4 +110,14 @@ By following this guide, you’ve set up DeepSeek-R1 with Ollama on your VPS. No
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### Want to Learn More? 🤓
+
+If you're interested in diving deeper into Node.js, DevOps, and other tech topics, follow me on Medium for more insightful articles and guides! ✨
+
+👉 [Follow me on Medium!](https://prashant1879.medium.com/) 📚
+
+Stay tuned and keep coding! 👨‍💻👩‍💻
 ```
